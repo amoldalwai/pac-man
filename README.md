@@ -4,7 +4,7 @@
 
 # Pacman using JS     <img src="https://emojis.slackmojis.com/emojis/images/1484253895/1632/pacman.gif?1484253895"  width="35" height="35" />
 
-A retro style Super Mario game inspired from old school mario underwater level/world  built using HTML, CSS &amp;  JS ,in which the player can control the movement of the Super mario using right mouse click  to swim away from incoming enemies.
+Pac-man built using vanilla JavaScript, HTML, and CSS. Including character animations, collision detections between Pac-man and ghosts, and attack capability using the p5.js library.
 
 
 ![GitHub top language](https://img.shields.io/github/languages/top/amoldalwai/pac-man?style=plastic)
@@ -17,7 +17,7 @@ A retro style Super Mario game inspired from old school mario underwater level/w
 [Installing](#Installing)
 
 
-![Demonstartion Video](https://j.gifs.com/D1j5OK.gif)
+![Demonstartion Video](https://j.gifs.com/gZADvZ.gif)
 
 
 ## Demo Link :point_right: [https://amoldalwai.github.io/pac-man/](https://amoldalwai.github.io/pac-man/)
@@ -38,13 +38,13 @@ A retro style Super Mario game inspired from old school mario underwater level/w
 
 ## Youtube
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=pPQoJknhYQE
-" target="_blank"><img src="http://img.youtube.com/vi/pPQoJknhYQE/0.jpg" 
-alt="RoadFighter " width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=pjLcY0IRXB8
+" target="_blank"><img src="http://img.youtube.com/vi/pjLcY0IRXB8/0.jpg" 
+alt="pac-man" width="240" height="180" border="10" /></a>
 
-![YouTube Video Views](https://img.shields.io/youtube/views/pPQoJknhYQE?style=plastic)
-![YouTube Video Votes](https://img.shields.io/youtube/likes/pPQoJknhYQE?style=social&withDislikes)
-![YouTube Video Comments](https://img.shields.io/youtube/comments/pPQoJknhYQE?style=social)
+![YouTube Video Views](https://img.shields.io/youtube/views/pjLcY0IRXB8?style=plastic)
+![YouTube Video Votes](https://img.shields.io/youtube/likes/pjLcY0IRXB8?style=social&withDislikes)
+![YouTube Video Comments](https://img.shields.io/youtube/comments/pjLcY0IRXB8?style=social)
 
 
 ### Installing
