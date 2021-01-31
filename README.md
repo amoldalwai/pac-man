@@ -20,7 +20,7 @@ A retro style Super Mario game inspired from old school mario underwater level/w
 ![Demonstartion Video](https://j.gifs.com/D1j5OK.gif)
 
 
-## Demo Link :point_right: [https://amoldalwai.github.io/SuperMario-underwater/](https://amoldalwai.github.io/pac-man/)
+## Demo Link :point_right: [https://amoldalwai.github.io/pac-man/](https://amoldalwai.github.io/pac-man/)
 
 
 
